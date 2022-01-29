@@ -1,0 +1,8 @@
+1	Admin	Maroc	admin	abdo
+2	ayman	Maroc	ayman@g.c	ayay
+3	bilal	France	e	p
+4	boucha	Casa	bo@g.c	Bouhra
+5	chakir	rabat	chakir@g.c	CH456
+6	anass	rabat	anass@g.c	anass
+7	samya	tanger	samya@g.c	s123
+8	abderfie	fnideq	abdo@gmail.com	abdo
